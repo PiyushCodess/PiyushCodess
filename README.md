@@ -1,18 +1,27 @@
-# 💫 About Me:
-I am currently working on AI-powered full-stack projects using Python,<br>including a Personal Finance Analytics Dashboard with ML-based spending insights, <br>while strengthening my fundamentals in Django, SQL, and REST APIs.<br><br>I am looking to collaborate on Python, Django, Flask, AI/ML, and data-driven web applications, <br>especially beginner-friendly projects where I can contribute to backend development, model integration, <br>or API design.<br><br>I am looking for help with optimizing machine learning models, system design for scalable web applications,<br>and best practices for deploying ML-powered applications.<br><br>I’m looking for help with model optimization, feature engineering, ML system design, and deploying AI models into production-ready applications.<br><br>I’m currently learning Machine Learning algorithms, Data Structures & Algorithms, statistics for AI, model evaluation techniques,<br>and end-to-end AI application development using Python.<br><br>I enjoy converting real-world problems into practical AI-based projects, even while learning concepts from scratch.
+Hi, I'm Piyush Patrikar — an aspiring AI Engineer and Computer Science student passionate about building intelligent systems using Generative AI, Machine Learning, and scalable backend technologies.
 
+I specialize in developing real-world AI applications using LLMs, RAG pipelines, and automation workflows. My work focuses on solving practical problems through AI-powered solutions such as clinical document Q&A systems, legal document simplification, and fake news detection platforms.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Piyush Patrikar](https://www.linkedin.com/in/piyush-patrikar/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:piyushpatrikar459@gmail.com) 
+Currently, I am working as an AI Automation Intern, where I build and deploy automation workflows using Python, LLM APIs, and modern AI tools.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PiyushCodess&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PiyushCodess&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushCodess&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+What I work with
 
----
-[![](https://visitcount.itsvg.in/api?id=PiyushCodess&icon=0&color=0)](https://visitcount.itsvg.in)
+Languages: Python, SQL
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+AI/ML: Generative AI, LLMs, RAG, LangChain, LangGraph, NLP, Scikit-learn
+
+Backend: FastAPI, Flask, REST APIs
+
+AI Tools & Platforms: OpenAI, Groq, Gemini, Hugging Face, Vector Databases, FAISS
+
+Tools: Git, Docker, Linux, Streamlit
+
+What I’m interested in
+
+Building LLM applications and AI agents
+
+Automation using Generative AI
+
+Real-world AI products and scalable backend systems
+
+Continuous learning and contributing to open source
