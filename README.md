@@ -1,27 +1,62 @@
-Hi, I'm Piyush Patrikar — an aspiring AI Engineer and Computer Science student passionate about building intelligent systems using Generative AI, Machine Learning, and scalable backend technologies.
+# Hi there, I'm Piyush Patrikar 👋
 
-I specialize in developing real-world AI applications using LLMs, RAG pipelines, and automation workflows. My work focuses on solving practical problems through AI-powered solutions such as clinical document Q&A systems, legal document simplification, and fake news detection platforms.
+🎓 Computer Science student | 🤖 Aspiring AI Engineer | 🧠 Generative AI Enthusiast  
 
-Currently, I am working as an AI Automation Intern, where I build and deploy automation workflows using Python, LLM APIs, and modern AI tools.
+---
 
-What I work with
+## 🚀 About Me
 
-Languages: Python, SQL
+I'm an aspiring AI Engineer passionate about building intelligent applications using **Generative AI, Machine Learning, and scalable backend systems**.
 
-AI/ML: Generative AI, LLMs, RAG, LangChain, LangGraph, NLP, Scikit-learn
+I specialize in developing real-world AI solutions using **LLMs, RAG pipelines, and automation workflows**. My projects focus on solving practical problems such as **clinical document analysis, legal document simplification, and fake news detection**.
 
-Backend: FastAPI, Flask, REST APIs
+Currently working as an **AI Automation Intern**, building and deploying AI-driven automation workflows using Python, LLM APIs, and modern AI tools.
 
-AI Tools & Platforms: OpenAI, Groq, Gemini, Hugging Face, Vector Databases, FAISS
+---
 
-Tools: Git, Docker, Linux, Streamlit
+## 🛠️ Tech Stack
 
-What I’m interested in
+**Languages:**  
+Python, SQL  
 
-Building LLM applications and AI agents
+**AI / ML:**  
+Generative AI, LLMs, RAG, LangChain, LangGraph, NLP, Scikit-learn  
 
-Automation using Generative AI
+**Backend Development:**  
+FastAPI, Flask, REST APIs  
 
-Real-world AI products and scalable backend systems
+**AI Tools & Platforms:**  
+OpenAI, Groq, Gemini, Hugging Face, FAISS, Vector Databases  
 
-Continuous learning and contributing to open source
+**Tools & Technologies:**  
+Git, Docker, Linux, Streamlit  
+
+---
+
+## 📌 Featured Projects
+
+- 🧠 Clinical Document Q&A System (RAG-based)
+- ⚖️ Legal Document Simplifier (LLM-powered risk analysis)
+- 📰 Fake News Detection System (NLP + Ensemble ML)
+- 🤖 AI Automation Workflows using LLM APIs
+
+---
+
+## 🎯 Current Focus
+
+- Building LLM applications and AI Agents  
+- Developing real-world AI products  
+- Learning advanced AI engineering and scalable systems  
+- Contributing to open-source projects  
+
+---
+
+## 🌐 Connect with Me
+
+- Portfolio: https://piyushcodes.in  
+- LinkedIn: https://linkedin.com/in/piyush-patrikar  
+- Email: piyushpatrikar459@gmail.com  
+
+---
+
+⭐️ Always open to collaborating on AI and open-source projects!
