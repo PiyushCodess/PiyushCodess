@@ -10,7 +10,7 @@ I'm an aspiring AI Engineer passionate about building intelligent applications u
 
 I specialize in developing real-world AI solutions using **LLMs, RAG pipelines, and automation workflows**. My projects focus on solving practical problems such as **clinical document analysis, legal document simplification, and fake news detection**.
 
-Currently working as an **AI Automation Intern**, building and deploying AI-driven automation workflows using Python, LLM APIs, and modern AI tools.
+Worked as an **AI Automation Intern**, building and deploying AI-driven automation workflows using Python, LLM APIs, and modern AI tools.
 
 ---
 
